@@ -37,7 +37,8 @@ Data Cleaning • Statistical Analysis • Time-Series Analysis • Dashboard De
 
  Featured Projects
 
- 📈 [Economic Growth & Inflation Analysis](https://github.com/mahirmohamed/eurostat-analysis)
+ 📈 [Quantifying the Impact of Economic Policy: A Data-Driven Analysis of EU GDP & Inflation]
+ (https://github.com/mahirmohamed/eurostat-analysis)
 Analyzed Eurostat GDP and inflation data across EU countries to explore fiscal policy impacts.
 
 Key Achievements:
@@ -50,7 +51,7 @@ Tech Stack: `Python` `Pandas` `Matplotlib` `Eurostat API`
 
 ---
 
- [Ireland GDP vs. Consumption Deep Dive]
+ [Identifying the True Health of an Economy: Why Ireland's GDP Growth Misrepresents Domestic Consumer Strength]
 (https://github.com/mahirmohamed/ireland-gdp-analysis)
 Investigated the disconnect between Ireland's GDP growth and domestic consumption patterns.
 
