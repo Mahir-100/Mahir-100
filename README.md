@@ -37,7 +37,7 @@ Data Cleaning • Statistical Analysis • Time-Series Analysis • Dashboard De
 
  Featured Projects
 
- 📈 [Quantifying the Impact of Economic Policy: A Data-Driven Analysis of EU GDP & Inflation]
+  [Quantifying the Impact of Economic Policy: A Data-Driven Analysis of EU GDP & Inflation]
  (https://github.com/mahirmohamed/eurostat-analysis)
 Analyzed Eurostat GDP and inflation data across EU countries to explore fiscal policy impacts.
 
